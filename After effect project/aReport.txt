@@ -1,0 +1,213 @@
+Report created: 
+	3/6/2020	9:23:36 PM
+
+Project name: a.aep
+
+Source files collected to: 
+	C:\Users\MAROUA\Desktop\a\a folder
+
+Source files collected: All
+
+Collected comps:  
+	main
+	_Optik Instagram Stories Library
+	Pattern_1_1080x1920
+	Pattern_1_1920x1080
+	Pattern_2_1080x1920
+	Pattern_2_1920x1080
+	Action_Swipe Up
+	Action_Tap to Shop
+	Story_001 (810x960)
+	Story_002 (810x1080)
+	Story_003 (810x1320)
+	Story_004 (810x960)
+	Story_005 (810x1200)
+	Story_006 (810_1560)
+	Story_007 (810x1080)
+	Story_008 (810x1080)
+	Line Comp 1
+	Story_009_(810_1440)
+	Story_014 (810x840)
+	Story_015 (810x1200)
+	Story_016 (810_1320)
+	Story_017 (810_1320)
+	Story_018 (810_1560) 
+	Story_019 (810_1560)
+	Story_020 (810x840)
+	Story_021_(810_1440)
+	Story_022 (810x1200)
+	Story_023 (810x840)
+	Story_024 (810x960)
+	H1
+	H1 (Two Line)
+	H3_H4
+	ICO_H3
+	ICO_H4
+	IS_Story_001
+	IS_Story_002
+	IS_Story_003
+	IS_Story_004
+	IS_Story_005
+	IS_Story_006
+	IS_Story_007
+	IS_Story_008
+	IS_Story_009
+	IS_Story_010
+	IS_Story_011
+	IS_Story_012
+	IS_Story_013
+	IS_Story_014
+	IS_Story_015
+	IS_Story_016
+	IS_Story_017
+	IS_Story_018
+	IS_Story_019
+	IS_Story_020
+	IS_Story_021
+	IS_Story_022
+	IS_Story_023
+	IS_Story_024
+	24 Optik Instagram Stories
+	Optik Logo Final
+	Line Comp 3
+	Line Comp 4
+	Line Comp 5
+	Line Comp 6
+	Pre-comp 1
+	Pre-comp 2
+	Pre-comp 3
+	Pre-comp 4
+	Pre-comp 6
+	Pre-comp 7
+	Pre-comp 8
+	Pre-comp 9
+	Pre-comp 10
+	Pre-comp 11
+	Pre-comp 12
+	Pre-comp 13
+	Pre-comp 14
+	Pre-comp 15
+	Pre-comp 16
+	Pre-comp 17
+	Pre-comp 18
+	Pre-comp 19
+	Pre-comp 20
+	Pre-comp 21
+	Pre-comp 22
+	Pre-comp 23
+	Pre-comp 24
+	Pre-comp 25
+	Pre-comp 26
+	Pre-comp 27
+	Pre-comp 28
+	Pre-comp 29
+	Pre-comp 30
+	Pre-comp 31
+	Pre-comp 32
+	Pre-comp 33
+	Pre-comp 34
+	Pre-comp 35
+	Pre-comp 36
+	Pre-comp 37
+	Pre-comp 38
+	Pre-comp 39
+	Pre-comp 40
+	Pre-comp 41
+	Pre-comp 42
+	Pre-comp 17 Comp 1
+	Pre-comp 17 Comp 2
+	Shape Comp 1
+	Shape Comp 2
+	Shape Layer 1
+	Shape Layer 2
+	Shape Layer 3
+	Shape Layer 1 Comp 1
+	Background_11
+	Title_31
+	Title_01
+	Element01
+	Element02
+	Element03
+	Element04
+	Edit Texts (Slide 14)
+	Typography_Slide_10
+	storie
+	Background_11 1
+	Title_01 1
+	Title_31 1
+	Typography_Slide_10 1
+	
+Number of collected files:  18
+
+Size of collected files:  95.4 MB
+
+Collected source files: 
+	C:\Users\MAROUA\AppData\Local\Temp\nexrender\6a8FsVTx-YFB9np9_Yuv5\nexrender-6a8FsVTx-YFB9np9_Yuv5-script.jsx
+	C:\Users\MAROUA\Desktop\a\Assets\CSE.png
+	C:\Users\MAROUA\Desktop\a\back.mp4
+	C:\Users\MAROUA\Desktop\a\DSC_0251.JPG
+	C:\Users\MAROUA\Desktop\a\shutterstock_148972376.width-800.jpg
+	C:\Users\MAROUA\Desktop\aa.png
+	C:\Users\MAROUA\Desktop\ee.jpg
+	C:\Users\MAROUA\Desktop\t1.jpg
+	C:\Users\MAROUA\Desktop\Untitled-1.png
+	C:\Users\MAROUA\Desktop\workspace\Assets\24274060-instagram-stories-ShareAE.com\24274060-instagram-stories-ShareAE.com\24274060-instagram-stories-ShareAE.com\Optik Instaram Stories 2.0\Assets\Google Material Icons\2x\baseline_share_black_24dp.png
+	C:\Users\MAROUA\Desktop\workspace\Assets\24274060-instagram-stories-ShareAE.com\24274060-instagram-stories-ShareAE.com\24274060-instagram-stories-ShareAE.com\Optik Instaram Stories 2.0\Assets\Optik Patterns\Optik Patterns\001_pattern.png
+	C:\Users\MAROUA\Desktop\workspace\Assets\24274060-instagram-stories-ShareAE.com\24274060-instagram-stories-ShareAE.com\24274060-instagram-stories-ShareAE.com\Optik Instaram Stories 2.0\Assets\Optik Patterns\Optik Patterns\02_pattern.png
+	C:\Users\MAROUA\Desktop\workspace\pro\DSC_0403(1).jpg
+	C:\Users\MAROUA\Desktop\workspace\pro\DSC_0642.JPG
+	C:\Users\MAROUA\Desktop\workspace\pro\DSC_0805.jpg
+	C:\Users\MAROUA\Desktop\zellat\1.jpg
+	C:\Users\MAROUA\Desktop\zellat\2.jpg
+	C:\Users\MAROUA\Desktop\zellat\3.jpg
+	
+Number of missing items:  1
+
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  19
+
+Effect:  
+	
+Effect:  Beam
+	
+Effect:  CC Composite
+	
+Effect:  CC RepeTile
+	
+Effect:  Checkbox Control
+	
+Effect:  Circle
+	
+Effect:  Color Control
+	
+Effect:  Fast Box Blur
+	
+Effect:  Fill
+	
+Effect:  Gradient Ramp
+	
+Effect:  Levels
+	
+Effect:  Linear Wipe
+	
+Effect:  Matte Choker
+	
+Effect:  Motion Tile
+	
+Effect:  Radial Wipe
+	
+Effect:  Simple Choker
+	
+Effect:  Slider Control
+	
+Effect:  Transform
+	
+Effect:  Wave Warp
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “BebasNeueBold”, Font style: “Regular”
+

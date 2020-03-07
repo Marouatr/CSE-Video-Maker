@@ -1,0 +1,43 @@
+{
+    "template": {
+        "src": "file:///C:/Users/MAROUA/Desktop/a/a.aep",
+        "composition": "storie"
+    },
+    "assets": [
+        {
+            "src": "file:///C:/wamp64/www/uploadp1.jpg",
+            "type": "image",
+            "layerName": "photo1"
+        },
+        {
+            "src": "file:///C:/wamp64/www/uploadp2.jpg",
+            "type": "image",
+            "layerName": "photo2"
+        },
+        {
+            "src": "file:///C:/wamp64/www/uploadp3.jpg",
+            "type": "image",
+            "layerName": "photo3"
+        },
+        {
+            "type": "data",
+            "layerName": "name",
+            "property": "Source Text",
+            "value": "pppp"
+        }
+    ],
+    "actions": {
+        "postrender": [
+            {
+                "module": "@nexrender/action-encode",
+                "preset": "mp4",
+                "output": "zm.mp4"
+            },
+            {
+                "module": "@nexrender/action-copy",
+                "input": "m.mp4",
+                "output": "file:///C:/Users/MAROUA/Desktop/a/resultzm.mp4"
+            }
+        ]
+    }
+}
